@@ -6,6 +6,7 @@
 /Puzzle/.settings/
 /SeamCarver/.settings/
 /WordNet/.settings/
+/BaseballElimination/.settings/
 
 /Boggle/bin/
 /Deque/bin/
@@ -15,5 +16,6 @@
 /Puzzle/bin/
 /SeamCarver/bin/
 /WordNet/bin/
+/BaseballElimination/bin/
 *.classpath
 *.project
